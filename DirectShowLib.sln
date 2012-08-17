@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectShowLib", "DirectShowLib.csproj", "{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectShowLib", "DirectShowLib\DirectShowLib.csproj", "{CE009BFA-5EF6-4153-B2A1-2FA79698A9AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
