@@ -110,6 +110,7 @@
     <Compile Include="BDATypes.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ClassId.cs" />
     <Compile Include="Control.cs">
       <SubType>Code</SubType>
     </Compile>
